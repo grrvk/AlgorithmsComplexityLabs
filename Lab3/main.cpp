@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  AlgLab
-//
-//  Created by vika on 26.10.2024.
-//
-
 #include <iostream>
 #include <ctime>
 #include <cmath>
